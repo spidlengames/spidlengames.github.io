@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs><clipPath id="round"><circle cx="128" cy="128" r="122"/></clipPath></defs>
+  <circle cx="128" cy="128" r="122" fill="#caf0f8"/>
+  <g clip-path="url(#round)"><path d="M128 70 Q112 40 96 34 M128 70 Q128 36 128 22 M128 70 Q144 40 160 34" fill="none" stroke="#48cae4" stroke-width="10" stroke-linecap="round"/><ellipse fill="#4895ef" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" cx="128" cy="160" rx="104" ry="78"/><path d="M56 196 Q128 250 200 196 Q128 222 56 196 Z" fill="#bde0fe"/><circle cx="88" cy="148" r="17" fill="white" stroke="#1d3557" stroke-width="5"/><circle cx="91" cy="150" r="8.5" fill="#1d3557"/><circle cx="87.6" cy="145.8" r="2.9" fill="white"/><circle cx="168" cy="148" r="17" fill="white" stroke="#1d3557" stroke-width="5"/><circle cx="171" cy="150" r="8.5" fill="#1d3557"/><circle cx="167.6" cy="145.8" r="2.9" fill="white"/><ellipse cx="62" cy="176" rx="12" ry="8" fill="#ff8fab" opacity="0.7"/><ellipse cx="194" cy="176" rx="12" ry="8" fill="#ff8fab" opacity="0.7"/><path d="M106 180 Q128 197.6 150 180" fill="none" stroke="#1d3557" stroke-width="7" stroke-linecap="round"/></g>
+  <circle cx="128" cy="128" r="122" fill="none" stroke="#1d3557" stroke-width="8"/>
+</svg>

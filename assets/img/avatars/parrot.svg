@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs><clipPath id="round"><circle cx="128" cy="128" r="122"/></clipPath></defs>
+  <circle cx="128" cy="128" r="122" fill="#fff3b0"/>
+  <g clip-path="url(#round)"><path fill="#e63946" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" d="M100 40 Q110 10 130 30 Q140 0 156 34 Q178 18 172 58 Z"/><circle fill="#2a9d8f" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" cx="128" cy="140" r="88"/><ellipse cx="160" cy="132" rx="44" ry="40" fill="#f1faee"/><circle cx="160" cy="124" r="19" fill="white" stroke="#1d3557" stroke-width="5"/><circle cx="163" cy="126" r="9.5" fill="#1d3557"/><circle cx="159.2" cy="121.2" r="3.2" fill="white"/><path fill="#ffb703" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" d="M96 132 Q40 140 60 200 Q80 170 110 168 Z"/><path d="M70 150 Q86 156 100 152" stroke="#1d3557" stroke-width="4" fill="none"/></g>
+  <circle cx="128" cy="128" r="122" fill="none" stroke="#1d3557" stroke-width="8"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs><clipPath id="round"><circle cx="128" cy="128" r="122"/></clipPath></defs>
+  <circle cx="128" cy="128" r="122" fill="#90e0ef"/>
+  <g clip-path="url(#round)"><ellipse fill="#22223b" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" cx="128" cy="150" rx="96" ry="104"/><ellipse cx="100" cy="132" rx="38" ry="44" fill="white"/><ellipse cx="156" cy="132" rx="38" ry="44" fill="white"/><ellipse cx="128" cy="196" rx="62" ry="58" fill="white"/><circle cx="100" cy="128" r="15" fill="white" stroke="#1d3557" stroke-width="5"/><circle cx="103" cy="130" r="7.5" fill="#1d3557"/><circle cx="100.0" cy="126.2" r="2.6" fill="white"/><circle cx="156" cy="128" r="15" fill="white" stroke="#1d3557" stroke-width="5"/><circle cx="159" cy="130" r="7.5" fill="#1d3557"/><circle cx="156.0" cy="126.2" r="2.6" fill="white"/><ellipse cx="76" cy="162" rx="12" ry="8" fill="#ff8fab" opacity="0.7"/><ellipse cx="180" cy="162" rx="12" ry="8" fill="#ff8fab" opacity="0.7"/><path fill="#fb8500" stroke="#1d3557" stroke-width="6" stroke-linejoin="round" d="M108 156 L148 156 L128 182 Z"/></g>
+  <circle cx="128" cy="128" r="122" fill="none" stroke="#1d3557" stroke-width="8"/>
+</svg>
