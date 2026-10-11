@@ -7,7 +7,7 @@ repository (no build step).
 - `/cannonball-captains/`: Cannonball Captains, with the download button
 - `/cannonball-captains/privacy/`: Cannonball Captains privacy policy (linked from Google Play)
 - `/cannonball-captains/play/`: the browser version (`?lang=cs` etc. picks its first language)
-- `/cs/`, `/de/`, `/fr/`, `/it/`: the same pages in Czech, German, French and Italian
+- `/cs/`, `/de/`, `/es/`, `/fr/`, `/it/`: the same pages in Czech, German, Spanish, French and Italian
 
 **Languages:** the English pages are the originals. The translated copies are made by
 `python3 tools/languages.py` from the table of texts in that script, which also adds the
