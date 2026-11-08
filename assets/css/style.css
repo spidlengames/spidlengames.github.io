@@ -244,6 +244,20 @@ section { padding: 56px 0; }
 }
 .phone img { width: 100%; }
 
+/* A landscape tablet, for games played sideways (Maze of the Bobcats) */
+.tablet {
+  width: min(460px, 86vw);
+  border-radius: 26px;
+  border: 10px solid #0f2238;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.35), 0 0 0 2px rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+  background: #0f2238;
+  transform: rotate(-2deg);
+}
+.tablet img { width: 100%; }
+/* An icon without its own background (Bobbie's head) */
+.app-icon.plain { border-radius: 0; box-shadow: none; filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.35)); }
+
 .float {
   position: absolute;
   width: 92px;
@@ -278,6 +292,8 @@ section { padding: 56px 0; }
   border: 6px solid #0f2238;
   box-shadow: 0 16px 30px rgba(0, 0, 0, 0.3);
 }
+.screens.wide figure { width: min(400px, 80vw); }
+.screens.wide img { border-radius: 18px; }
 .screens figcaption { text-align: center; color: var(--text-dim); font-size: 15px; margin-top: 10px; }
 
 /* ---------- Characters strip ---------- */

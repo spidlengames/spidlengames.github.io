@@ -7,6 +7,9 @@ repository (no build step).
 - `/cannonball-captains/`: Cannonball Captains, with the download button
 - `/cannonball-captains/privacy/`: Cannonball Captains privacy policy (linked from Google Play)
 - `/cannonball-captains/play/`: the browser version (`?lang=cs` etc. picks its first language)
+- `/maze-of-the-bobcats/`: Maze of the Bobcats, made for Bellview Elementary's arcade cabinet. A
+  showcase only: the game is private (no download), and the screenshots come from the game repo's
+  `tools/dev.sh screenshots public` (default ghosts and made-up names, never teachers' pictures)
 - `/cs/`, `/de/`, `/es/`, `/fr/`, `/it/`: the same pages in Czech, German, Spanish, French and Italian
 
 **Languages:** the English pages are the originals. The translated copies are made by

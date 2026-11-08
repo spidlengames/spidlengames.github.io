@@ -28,6 +28,7 @@
         <a href="#games">Juegos</a>
         <a href="#about">Nosotros</a>
         <a href="cannonball-captains/">Cannonball Captains</a>
+        <a href="maze-of-the-bobcats/">Maze of the Bobcats</a>
       </nav>
       <!-- languages: made by tools/languages.py -->
       <details class="lang">
@@ -73,7 +74,7 @@
     <section id="games">
       <div class="wrap">
         <h2>Nuestros juegos</h2>
-        <div class="grid grid-2">
+        <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr));">
           <a class="card" href="cannonball-captains/" style="text-decoration: none; color: inherit;">
             <div style="display: flex; gap: 20px; align-items: center;">
               <img src="../assets/img/cannonball-captains-icon.svg" alt="" width="96" height="96" style="border-radius: 22px;">
@@ -83,7 +84,16 @@
               </div>
             </div>
           </a>
-          <div class="card" style="display: grid; place-items: center; text-align: center;">
+          <a class="card" href="maze-of-the-bobcats/" style="text-decoration: none; color: inherit;">
+            <div style="display: flex; gap: 20px; align-items: center;">
+              <img src="../assets/img/maze-of-the-bobcats/bobbie.png" alt="" width="96" height="96">
+              <div>
+                <h3 style="margin-bottom: 4px;">Maze of the Bobcats</h3>
+                <p class="dim" style="margin: 0;">¡Una persecución en un laberinto creada para la máquina arcade de la escuela primaria Bellview! Ayuda a Bobbie el lince a comerse todos los puntos y ve siempre un paso por delante de los maestros.</p>
+              </div>
+            </div>
+          </a>
+          <div class="card" style="display: grid; place-items: center; text-align: center; grid-column: 1 / -1;">
             <div>
               <h3 style="margin-bottom: 4px;">Vienen más</h3>
               <p class="dim" style="margin: 0;">Siempre estamos imaginando la próxima aventura.</p>
